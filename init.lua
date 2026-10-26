@@ -46,9 +46,9 @@ vim.opt.autoread = true
 vim.opt.autoindent = true
 vim.opt.smartindent = true
 vim.opt.smarttab = true
-vim.opt.tabstop = 1
-vim.opt.softtabstop = 1
-vim.opt.shiftwidth = 1
+vim.opt.tabstop = 4
+vim.opt.softtabstop = 4
+vim.opt.shiftwidth = 4
 
 -- Use spaces instead of tabs
 vim.opt.expandtab = true

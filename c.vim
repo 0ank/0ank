@@ -1,4 +1,4 @@
-syntax keyword cKeyword if else while for switch case
+syntax keyword cKeyword if else while for switch case enum typedef struct union
 syntax keyword cType short int float char long double signed unsigned
 syntax match cConditional /$if\|else\|switch$/
 
